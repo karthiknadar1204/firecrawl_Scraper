@@ -1,0 +1,19 @@
+{
+  "name": "firecrawl_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.18.2",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "jsdom": "^26.0.0"
+  }
+}
